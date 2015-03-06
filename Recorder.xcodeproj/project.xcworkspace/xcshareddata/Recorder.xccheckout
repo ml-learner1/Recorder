@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>47D204D2-A5AD-4333-9953-836D70E7B97E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Recorder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC1955F9A414E156D8A053E934B69EA07F8A308A</key>
+		<string>https://github.com/swift8ios/Recorder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Recorder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC1955F9A414E156D8A053E934B69EA07F8A308A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/swift8ios/Recorder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC1955F9A414E156D8A053E934B69EA07F8A308A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC1955F9A414E156D8A053E934B69EA07F8A308A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Recorder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

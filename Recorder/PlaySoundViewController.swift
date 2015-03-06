@@ -43,7 +43,7 @@ class PlaySoundViewController: UIViewController {
     
     
    @IBAction func stopAudio(sender: UIButton) {
-    
+    //Stop the recorder
     audioEngine.stop()
     audioEngine.reset()
     
